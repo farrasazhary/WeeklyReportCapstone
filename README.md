@@ -17,3 +17,7 @@ https://drive.google.com/file/d/1DSzkJkY9hPAht2g2AmVPX9CUUSnz1BIp/view?usp=shari
 
 Meet up with the capstone group to discuss the progress of each team. Deploying API authentication using the compute engine from GCP and creating API prediction with the tfjs model provided by the Machine Learning team
 https://drive.google.com/drive/folders/1BmYOF3rbUv38BTJQ_15CXzI7Q9mvXrWB?usp=sharing
+
+# 10 JUne - 20 June
+Meet up with the cloud computing team, deploy API production to the app engine, fix several bugs and several requests from the mobile front end, mentoring with advisors.
+https://drive.google.com/drive/folders/1UMEDvd2RM0OYI3Kio42-gNUCYvHQ0EXJ?usp=sharing
